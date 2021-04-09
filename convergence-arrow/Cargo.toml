@@ -14,7 +14,6 @@ async-trait = "0.1"
 arrow = { git = "https://github.com/apache/arrow" }
 datafusion = { git = "https://github.com/apache/arrow" }
 convergence = { path = "../convergence", version = "0.2" }
-datafusion = { git = "https://github.com/apache/arrow" }
 chrono = "0.4"
 
 [dev-dependencies]
